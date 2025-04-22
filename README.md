@@ -20,8 +20,7 @@ A Python program that helps users improve password safety by: Checking if a pass
 #### ▶️ How to Run:
 Visual Studio Code or any way you prefer.
 
-
-
+---
 
 🙋‍♀️ Author: Made by Ntsoareleng
 
