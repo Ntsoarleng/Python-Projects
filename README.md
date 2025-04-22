@@ -21,8 +21,11 @@ A Python program that helps users improve password safety by: Checking if a pass
 Visual Studio Code or any way you prefer.
 
 
-🙋‍♀️ Author
-Made by Ntsoareleng
+
+
+🙋‍♀️ Author: Made by Ntsoareleng
+
 📅 Year: 2025
+
 🌱 Learning Python, cybersecurity, and cloud — one project at a time!
 
